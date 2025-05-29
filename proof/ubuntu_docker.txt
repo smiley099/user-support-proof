@@ -1,0 +1,8 @@
+Linux & Docker Proof
+--------------------
+Ubuntu Version:
+Description: Ubuntu 22.04.5 LTS
+
+Running Containers:
+CONTAINER ID   IMAGE       COMMAND                  CREATED       STATUS       PORTS                                       NAMES
+93d2ffe01bd5   postgres:15 "docker-entrypoint.s…"   5 days ago    Up 5 days    0.0.0.0:5432->5432/tcp, :::5432->5432/tcp   cl-postgres

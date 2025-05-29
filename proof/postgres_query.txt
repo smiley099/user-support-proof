@@ -1,0 +1,10 @@
+PostgreSQL Proof (Docker)
+------------------
+PostgreSQL Version:
+psql (PostgreSQL) 15.13 (Debian 15.13-1.pgdg120+1)
+
+Database Connection:
+   version
+------------------------------------------------------------------------------------------------------------------------
+ PostgreSQL 15.13 (Debian 15.13-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+(1 row)
